@@ -8,7 +8,6 @@ public class EletroEcommerceApplication {
 
 	public static void main(String[] args) {SpringApplication.run(EletroEcommerceApplication.class, args);
 
-
 	}
 
 }
